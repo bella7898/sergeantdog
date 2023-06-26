@@ -23,7 +23,7 @@ import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplet
           })
         }}
         query={{
-          key: 'AIzaSyBL9O1jIFA3akQULw3PFiPt6G34Ty3i69w',
+          key: '',
           language: 'en',
           components: "country:ca",
           types: "(cities)",
